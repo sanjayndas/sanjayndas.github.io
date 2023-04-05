@@ -1,7 +1,7 @@
 menu:
-- {name: 'publications', url: '/publications'}
-- {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
+- {name: 'projects', url: '/projects'}
+- {name: 'blogs', url: '/blogs'}
 
 social:
 - {icon: 'github', link: 'https://github.com/sanjayndas'}
