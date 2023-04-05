@@ -1,4 +1,4 @@
 time_series:
-- {name: 'Sales Forecasting in a Retail Store', url: 'time_series', desc: "Built a Time Series model for forecasting the sales of a retail store using historical sales data"}
+- {name: 'Sales_forecasting(22.02.2023)', url: 'time_series', desc: "Built a Time Series model for forecasting the sales of a retail store using historical sales data"}
         
 
