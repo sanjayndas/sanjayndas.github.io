@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Central Limit Theorem
+layout: projects
+title: Sales Forecasting using Time Series Analysis
 ---
 
 
