@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am an M.Tech graduate in Mechanical Engineering with specialization in Industrial Engineering. I have expertise in data analytics and is proficient in using statistical models and machine learning algorithms.
+Strong understanding of data visualization techniques and ability to communicate complex insights through visual representations
+Self-driven individual with a passion for solving complex problems and uncovering hidden patterns in data
