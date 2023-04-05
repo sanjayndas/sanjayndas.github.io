@@ -11,7 +11,7 @@ layout: default
           <br>
           {% for item in site.data.data_science_projects.time_series%}
             <p>
-              <a href="/data_science_projects/time_series/{{ projects.url }}">{{ projects.name }}</a>
+              <a href="/data_science_projects/time_series/{{ item.url }}">{{ item.name }}</a>
               <p>
                 {{ item.desc }}
               </p>
