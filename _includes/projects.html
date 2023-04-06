@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+
+<div class="row g-5 mb-5">
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5"> Data Science Projects</h4>
+
+          <h5><b>Time Series Analysis</b></h5>
+          <br>
+          {% for item in site.data.projects.time_series%}
+            <p>
+              <a href="/data_science_projects/time_series/{{ item.url }}">{{ item.name }}</a>
+              <p>
+                {{ item.desc }}
+              </p>
+            </p>
+          {% endfor %}
+          
+      </div>
+    </div>
