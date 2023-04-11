@@ -2,3 +2,6 @@ url: "https://sanjayndas.github.io/" # the base hostname & protocol for your sit
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "SANJAY NARAYANADAS" # the name of your site, e.g. ACME Corp.
 description: "Aspiring Data Scientist"
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
