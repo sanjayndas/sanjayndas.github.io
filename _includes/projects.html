@@ -9,9 +9,9 @@ layout: default
 
           <h5><b>Time Series Analysis</b></h5>
           <br>
-          {% for item in site.data.projects %}
+          {% for item in site.data.projects.projects %}
             <p>
-              <a href="/projects/{{ item.url }}">{{ item.name }}</a>
+              <a href="{{ item.url }}">{{ item.name }}</a>
               <p>
                 {{ item.desc }}
               </p>
