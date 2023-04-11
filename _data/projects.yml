@@ -1,4 +1,4 @@
 projects:
-- {name: 'Sales_forecasting', url: 'Sales_forecasting(22.02.2023)', desc: "Built a Time Series model for forecasting the sales of a retail store using historical sales data"}
+- {name: 'Sales_forecasting', url: '/projects/Sales_forecasting(22.02.2023).md', desc: "Built a Time Series model for forecasting the sales of a retail store using historical sales data"}
         
 
